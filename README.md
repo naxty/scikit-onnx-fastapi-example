@@ -27,3 +27,6 @@ Just run ``docker-compose up`` to start the project.
 - application is available at http://localhost
 - docs are available at http://localhost/docs
 - take a look on the [test.sh](test.sh) script to see an example for a prediction
+
+## Application Visualisation
+ ![Application visualisation](images/web_application.png)
