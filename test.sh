@@ -5,17 +5,17 @@ curl -X POST \
   -H 'cache-control: no-cache' \
   -H 'token: 1337' \
   -d '{
-  "CRIM": 300,
-  "ZN": 0,
-  "INDUS": 0,
-  "CHAS": 0,
-  "NOX": 0,
-  "RM": 0,
-  "AGE": 0,
-  "DIS": 0,
-  "RAD": 0,
-  "TAX": 0,
-  "PTRATIO": 0,
-  "B": 0,
-  "LSTAT": 0
+  "CRIM": 0.06724,
+  "ZN": 0.0,
+  "INDUS": 3.24,
+  "CHAS": 0.0,
+  "NOX": 0.46,
+  "RM": 6.333,
+  "AGE": 17.2,
+  "DIS": 5.2146,
+  "RAD": 4.0,
+  "TAX": 430.0,
+  "PTRATIO": 16.9,
+  "B": 375.21,
+  "LSTAT": 7.34
 }'

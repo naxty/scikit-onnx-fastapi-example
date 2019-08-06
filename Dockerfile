@@ -13,4 +13,3 @@ COPY models/boston_housting.onnx /tmp/boston_housing.onnx
 ENV MODEL_PATH=/tmp/boston_housing.onnx
 
 EXPOSE 80
-EXPOSE 5000

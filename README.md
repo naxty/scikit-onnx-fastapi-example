@@ -17,8 +17,6 @@ The purpose of the application is to run the model with the ONNX Runtime and to 
 - [notebooks/Modeltraining.ipynb](notebooks/Modeltraining.ipynb): Here you can find the procedure that we are using to train the model.
 - [application](application): Contains all of the code that we need to serve the model.
 
-
-
 ## Training
 If you want to take a look on how the model was trained take a look into the [Modeltraining.ipynb](notebooks/Modeltraining.ipynb). 
 After the training the model is exported to ONNX with the [skl2onnx](https://pypi.org/project/skl2onnx/) package.
