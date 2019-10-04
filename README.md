@@ -4,6 +4,9 @@ This repository shows how to serve a model with [ONNX Runtime](https://github.co
 A simple *linear regression* was trained with [scikit-learn](https://scikit-learn.org/) framework on the [boston housing dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html).
 
 
+- English article: [Deploying a scikit-learn model with ONNX and FastAPI](https://medium.com/@nico.axtmann95/deploying-a-scikit-learn-model-with-onnx-und-fastapi-1af398268915)
+- German article: [Inbetriebnahme eines scikit-learn-Modells mit ONNX und FastAPI](https://blog.codecentric.de/2019/08/inbetriebnahme-eines-scikit-learn-modells-mit-onnx-und-fastapi/)
+
 # Application Overview
 
 ![Overview of the application](images/overview.png)
