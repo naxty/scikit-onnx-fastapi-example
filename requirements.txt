@@ -3,7 +3,7 @@ numpy==1.17.0
 onnx==1.5.0
 onnxconverter-common==1.5.2
 onnxruntime==0.4.0
-pydantic==0.30
+pydantic==1.6.2
 scikit-learn==0.21.3
 scipy==1.3.0
 starlette==0.12.0
