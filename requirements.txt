@@ -1,4 +1,4 @@
-fastapi==0.33.0
+fastapi==0.65.2
 numpy==1.17.0
 onnx==1.5.0
 onnxconverter-common==1.5.2
