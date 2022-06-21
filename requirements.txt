@@ -1,5 +1,5 @@
 fastapi==0.33.0
-numpy==1.17.0
+numpy==1.22.0
 onnx==1.5.0
 onnxconverter-common==1.5.2
 onnxruntime==0.4.0
